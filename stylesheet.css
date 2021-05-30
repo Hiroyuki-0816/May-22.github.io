@@ -17,6 +17,8 @@ a {
   padding:180px 0 100px 0;
   background-image:url("https://github.com/Hiroyuki-0816/May-22.github.io/blob/main/IMG_2535.jpg%20part2%20(4).jpg");
   background-size:cover;
+  color:white;
+  text-align:center;
 }
 
 .top-wrapper h1{
@@ -29,6 +31,40 @@ a {
   opacity:0.7;
 }
 
+.btn{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+  border-radius:4px;
+}
 
+.btn:hover{
+  opacity:1;
+}
 
+.signup{
+  background-color:#239b76;
+}
+
+.facebook{
+  background-color:#3b5998;
+  margin-right:10px;
+}
+
+.twitter{
+  background-color:#55acee;
+}
+
+.btn-wrapper{
+  margin:20px 0;
+}
+
+.btn-wrapper p{
+  margin:10px 0;
+}
+
+.fa{
+  margin-right:5px;
+}
 
