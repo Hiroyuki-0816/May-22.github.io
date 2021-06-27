@@ -105,8 +105,10 @@ header {
 }
 
 .main-wrapper {
-  height: 500px;
+  /*height: 500px;*/
   padding-bottom: 80px;
+   padding-left: 5%;
+  padding-right: 5%;
   background-color: #f7f7f7;
   text-align:center;
 }
@@ -176,4 +178,8 @@ footer p{
 
 footer{
   padding-top:30px;
+}
+
+.clear{
+  clear:left;
 }
